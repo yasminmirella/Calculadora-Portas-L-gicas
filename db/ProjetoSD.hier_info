@@ -1,0 +1,7 @@
+|main
+pin_name1 <= <GND>
+S[2] => ~NO_FANOUT~
+S[1] => ~NO_FANOUT~
+S[0] => ~NO_FANOUT~
+
+
